@@ -22,10 +22,10 @@ This project helped me gain significant experience in several important areas:
 ## 📊 Model Performance Comparison
 
 ### Neural Network Model
-![Neural Network Confusion Matrix](model.png)
+![Neural Network Confusion Matrix](images/model.png) &nbsp;&nbsp;&nbsp;&nbsp; ![Neural Network](images/model_detailed.png)
 
 ### XGBoost Model
-![XGBoost Confusion Matrix](xgboost.png)
+![XGBoost Confusion Matrix](images/xgboost.png) &nbsp;&nbsp;&nbsp;&nbsp; ![XGBoost](images/xgboost_detailed.png)
 
 **Summary**: While the Neural Network model performs decently, XGBoost generally shows slightly better results on this dataset.
 
