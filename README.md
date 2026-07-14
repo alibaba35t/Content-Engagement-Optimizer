@@ -42,7 +42,7 @@ This project uses the **[Kaggle - Instagram Analytics Dataset](https://www.kaggl
 
 1. **Install Requirements**
    ```bash
-   pip install torch pandas numpy scikit-learn matplotlib seaborn jupyter
+   pip install -r requirements.txt
 
 
 2. **Download the Dataset**
