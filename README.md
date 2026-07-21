@@ -1,4 +1,10 @@
-# Content Engagement Optimizer : **[Live Demo](https://dlbsocialnanalysis.social/)**
+# Content Engagement Optimizer
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+
+**Live Application:** [https://dlbsocialnanalysis.social/](https://dlbsocialnanalysis.social/)
 
 A machine learning project that suggests the **best posting time** for social media content.
 
